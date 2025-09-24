@@ -1,0 +1,3 @@
+# ARCHITECTURE.md
+
+TODO: Add content for ARCHITECTURE.md
